@@ -22,13 +22,13 @@
 {"name":"lichen","vers":"0.2.21","deps":[],"cksum":"4007c5b4f6977f92deca4898c757e3302783b0a214e3f89746c9257075eb97e9","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.22","deps":[],"cksum":"71b77dc3f01ed63b0eaae5a78075c0748abe957a296e68354c075e9c607bf793","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.23","deps":[],"cksum":"4bb5bd05d11a402da98ad40a03f9d654f2d0af43340fc590e20d9f4a9735a870","features":{},"yanked":false}
-{"name":"lichen","vers":"0.2.24","deps":[],"cksum":"c09427fbb4f90e7fba350792527af944935e6fd60715e3d915c05aa567be126c","features":{},"yanked":true}
+{"name":"lichen","vers":"0.2.24","deps":[],"cksum":"c09427fbb4f90e7fba350792527af944935e6fd60715e3d915c05aa567be126c","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.25","deps":[],"cksum":"d2fb158b43ed0d63a5a44ec5f18e79d169a5e072257bc1d94eaa4a5f011f4e8e","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.26","deps":[],"cksum":"08ecae86591bb13922cefc4fdc7d6b74bcbae6cadbac800a11b5b3cffaf2f2e8","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.27","deps":[],"cksum":"1bda8434a62318be8136a552f0b6fea648920cb7d57fdf6c020e9bd011e3c000","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.28","deps":[],"cksum":"94f3c8f55a09d66f7dfa0cbf0e6ffc1778beec297ef3c272f50a7ddcfa806ce3","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.29","deps":[],"cksum":"88ff6a57b21c3c07b96692bdb8cb1c8ced2dc19c83e4f7d839718c27f86e0b73","features":{},"yanked":false}
-{"name":"lichen","vers":"0.2.30","deps":[],"cksum":"6b1cec4fd0a41eea829dbfce4470c3b5a5034e6020124ebd5694c41636747789","features":{},"yanked":true}
+{"name":"lichen","vers":"0.2.30","deps":[],"cksum":"6b1cec4fd0a41eea829dbfce4470c3b5a5034e6020124ebd5694c41636747789","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.31","deps":[],"cksum":"1439c48f57b0e681c9b27e71070e07b4386410e15b15200c8410bc2f21b16f07","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.32","deps":[],"cksum":"6dd3e23b6785c6baa5842b9de261c49909b60a334f40dec66d1b0fddbc0f2693","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.33","deps":[],"cksum":"bca4dd6813e87418638c4e0fc0eeb313596709838c186cad65706b2880290a3b","features":{},"yanked":false}
