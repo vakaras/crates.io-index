@@ -12,7 +12,6 @@
 {"name":"vk-sys","vers":"0.3.1","deps":[],"cksum":"49731d969a9bfa20852d4f2e82fc354a3ebc7af37bb23c3c23fe420882b4807f","features":{},"yanked":false}
 {"name":"vk-sys","vers":"0.3.2","deps":[],"cksum":"99d7d90fec4865ffd64fc057d72a0af20ed508ee665b17ad3556c3e033a65601","features":{},"yanked":false}
 {"name":"vk-sys","vers":"0.3.3","deps":[],"cksum":"9567ee6b79b72dfe50201817a9b903de91a1deb091b41c165c2c3679884d8103","features":{},"yanked":false}
-{"name":"vk-sys","vers":"0.3.4","deps":[],"cksum":"51d964d3437c53da484a46d63e16e3bf4a703219052ce27f2adf807d216c4177","features":{},"yanked":true,"links":null}
+{"name":"vk-sys","vers":"0.3.4","deps":[],"cksum":"51d964d3437c53da484a46d63e16e3bf4a703219052ce27f2adf807d216c4177","features":{},"yanked":false,"links":null}
 {"name":"vk-sys","vers":"0.4.0","deps":[],"cksum":"36f5fd4a7d6d5d19808610583131c0aed271556527cad4cb71c436831a28e059","features":{},"yanked":false,"links":null}
 {"name":"vk-sys","vers":"0.5.0","deps":[],"cksum":"772fce7a89bb15df4881f1c59a00983c335df3be58f94b8efc02cbebbe0b2781","features":{},"yanked":false,"links":null}
-{"name":"vk-sys","vers":"0.5.1","deps":[],"cksum":"c24c107c0402856ad434d2dc0f3dbdc68c9e170e8bab0f27aa82a282d234d57c","features":{},"yanked":false,"links":null}
